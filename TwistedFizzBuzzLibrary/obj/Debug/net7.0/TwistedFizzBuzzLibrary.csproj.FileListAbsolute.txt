@@ -1,0 +1,12 @@
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/bin/Debug/net7.0/TwistedFizzBuzzLibrary.deps.json
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/bin/Debug/net7.0/TwistedFizzBuzzLibrary.dll
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/bin/Debug/net7.0/TwistedFizzBuzzLibrary.pdb
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.csproj.AssemblyReference.cache
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.AssemblyInfoInputs.cache
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.AssemblyInfo.cs
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.csproj.CoreCompileInputs.cache
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.dll
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/refint/TwistedFizzBuzzLibrary.dll
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/TwistedFizzBuzzLibrary.pdb
+/Users/guilhermeuhlmann/Projects/TwistedFizzBuzzSolution/TwistedFizzBuzzLibrary/obj/Debug/net7.0/ref/TwistedFizzBuzzLibrary.dll
